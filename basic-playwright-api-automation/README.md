@@ -1,1 +1,0 @@
-# basic-playwright-api-automation
